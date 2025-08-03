@@ -1,8 +1,4 @@
-Sure! Here's a **short and easy** version of your `README.md` file with simple steps and structure:
 
----
-
-```markdown
 # 🤖 Support Agent (AI Chat App)
 
 This is an AI support agent that routes customer queries to different departments (like billing or technical). It's built using `openai-agents`.
@@ -77,9 +73,11 @@ You can add more filters as needed.
 
 ✅ That’s it! Your AI support agent is ready to run!
 
+<img width="1282" height="781" alt="Screenshot 2025-08-03 203517" src="https://github.com/user-attachments/assets/9185e982-44a1-406a-afe1-84a90791cf8a" />
+
+
+
+
+
 ```
 
----
-
-Let me know if you'd like this turned into an actual `.md` file.
-```
